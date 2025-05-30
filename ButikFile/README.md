@@ -61,19 +61,11 @@ Bu sayfa, müşteri iadeleri ve sebeplerine odaklanır:
 - Power BI Desktop
 - Temel DAX İfadeleri
 - Excel (veri kaynağı)
-
----
-
 ## 🌈 Dashboard Görünümü
 
-> 📌 Görseller aşağıda eklenecek  
-(Dashboard'un 2 sayfasından SS al → `satis-dashboard.png` ve `iade-dashboard.png` olarak klasöre at → aşağıdaki satırları aktif et)
-
-```md
 ### 🛍️ Satış Analizi
-
-![Satış Dashboard](./satis-dashboard.png)
+![Image](https://github.com/user-attachments/assets/a48dfa65-1e5f-4d2f-9356-254d28bf445f)
 
 ### 🔁 İade Analizi
 
-![İade Dashboard](./iade-dashboard.png)
+![Image](https://github.com/user-attachments/assets/5eb78cf2-d784-43e1-8f9b-20b695d67643)
