@@ -67,13 +67,13 @@ Tüm ölçümler basit ve orta seviye DAX fonksiyonlarıyla oluşturulmuştur.
 ## 📸 Dashboard Görselleri
 
 ### Proje Performans Sayfası  
-
+![Image](https://github.com/user-attachments/assets/f97c1f67-7b9e-4f48-915b-41e4fa4c6230)
 
 ### Müşteri Analizi Sayfası  
-
+![Image](https://github.com/user-attachments/assets/538de367-01e0-494c-99ae-b699d9f967ac)
 
 ### Finansal Performans Sayfası  
-
+![Image](https://github.com/user-attachments/assets/7aa94cbb-ded6-491d-8e06-d9351082b811)
 
 ---
 
